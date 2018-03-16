@@ -12,7 +12,6 @@ import 'normalize.css/normalize.css';
 import './styles/styles.scss';
 
 const store = configureStore();
-
 //set up store to provide to all components
 //so that you dont need to use store.subscribe anywhere
 const jsx = (
